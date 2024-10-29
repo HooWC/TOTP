@@ -1,0 +1,8 @@
+.home_empty_word{
+    display: flex;
+    justify-content: center;
+    color: gray;
+    font-size: 12px;
+    letter-spacing: 1px;
+    user-select: none;
+}
